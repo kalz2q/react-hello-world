@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-hell-world/static/css/main.0500980c.css",
+    "main.js": "/react-hell-world/static/js/main.b185787e.js",
+    "static/js/787.0701d925.chunk.js": "/react-hell-world/static/js/787.0701d925.chunk.js",
+    "index.html": "/react-hell-world/index.html",
+    "main.0500980c.css.map": "/react-hell-world/static/css/main.0500980c.css.map",
+    "main.b185787e.js.map": "/react-hell-world/static/js/main.b185787e.js.map",
+    "787.0701d925.chunk.js.map": "/react-hell-world/static/js/787.0701d925.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0500980c.css",
+    "static/js/main.b185787e.js"
+  ]
+}
